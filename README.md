@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilcoder1&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilcoder1" /> </p>
 
+![30-Day GitHub Streak](https://img.shields.io/badge/🔥%2030--Day%20GitHub%20Streak-success?style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=181717)
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilcoder1" alt="nikhilcoder1" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/devnick2811" target="blank"><img src="https://img.shields.io/twitter/follow/devnick2811?logo=twitter&style=for-the-badge" alt="devnick2811" /></a> </p>
